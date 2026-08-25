@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Shailesh Khairnar!  
 
-🎓 **First-Year Data Science Student**  
+🎓 **Third-Year Data Science Student**  
 💻 Learning ** C, Java, and Data Science**  
 📊 Exploring ** Open-Source Projects**  
 🚀 Passionate about **AI, Algorithms, and Problem-Solving**  
